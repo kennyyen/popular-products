@@ -6,12 +6,12 @@ An application displaying a list of popular products
 
 ## Services the application provides
 
-This application displays a list of popular products with dynamic voting and ranking of the products.
+This application displays a list of popular products with dynamic responsive voting and ranking of the products.
 
 ## Technologies used
 
 React - "react": "^18.1.0" \
-Typescript - "typescript": "^4.6.4"
+Typescript - "typescript": "^4.6.4" \
 Styled Component - "styled-components": "^5.3.5",
 
 ## Challenges
